@@ -299,8 +299,9 @@ h6 {
     drop-shadow(0 10px 30px rgba(125, 42, 232, 0.45));
 }
 
-@media (hover: none) and (pointer: coarse) and (min-width: 992px) {
-  main {
+
+@media (hover: none) and (pointer: coarse) {
+   main {
     padding-top: 110px;
     margin-top: 80px;
   }
@@ -319,9 +320,6 @@ h6 {
     margin-left: 0;
     margin-right: 0;
   }
-}
-
-@media (hover: none) and (pointer: coarse) {
   
   header {
     max-width: 100%;
@@ -1371,6 +1369,7 @@ h6 {
     font-size: 0.85rem;
   }
 }
+
 
 
 
