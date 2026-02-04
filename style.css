@@ -314,6 +314,9 @@ h6 {
   header .logo {
     margin-left: -12px;
   }
+  .navigation {
+    margin-left: 12px;
+  }
 }
 
 @media (max-width: 767px) {
@@ -1348,6 +1351,7 @@ h6 {
     font-size: 0.85rem;
   }
 }
+
 
 
 
